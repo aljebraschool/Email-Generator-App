@@ -8,4 +8,4 @@ It's implemented using some java concepts like;
 - loops
 - Encapsulation
 - methods
-More improvement on the app is allowed!
+- More improvement on the app is allowed!
